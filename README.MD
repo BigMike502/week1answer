@@ -1,0 +1,2 @@
+#Week1 Class Answer
+I would say that my fav is C#.  It is a good building block for building anything that goes into a Systems  and servers.  I am wanting to build programs and server software.  A lot of Businesses that I worked for in the past there software was written in C# or C++.  
